@@ -20,16 +20,8 @@ If the user adds information that does not fit our database no results will be d
 
 # Summary:
 
-The average user could use the webpage for a quick simple filter that can display the result within 10-12 seconds as it is designed to be
+The following webpage does filter or information in a quick and orderly manner for the desired visitor but I believe being able to quickly navigate through the webpage does not grab the interest for longer than 10 seconds on our webpage.Due to our filter system I believe we can keep users interest on the webpage by adding a resource display as well as a interactive map.
 
+By possibly including further references such as videos, pictures, interviews, and news clippings that  would further provide a visual guide of proof for the user I believe the user would extend their duration on our webpage.
 
-The following webpage does filter or information in a quick and orderly manner for the desired visitor but I believe being able to quickly navigate through the webpage does not grab the interest for longer than 10 seconds on our webpage.
-
-Because of our filter system I believe we can keep users interest on the webpage by adding a resource display as well as a interactive map.
-
-The average user could use the webpage for a quick simple filter that can display the result within 10-12 seconds as it is designed to be I believe two other features could extend the users attention to our website by creating a resources link or display, as well as an interactive map that displays all the sightings with the information attached.
-
-By including further references such as videos,pictures, interviews, and news clippings
-that further prove a visual guide of proof for the user I believe the user would extend their duration on our webpage.
-
-Adding a map that displays the North America that has the coordinates and location of each UFO sighting could also display all the different data sightings in an exciting and different way then just filtering for the specific information that the users intention was when first visiting the webpage. If users had the chance to zoom in to each sighting with such ease as google maps it could draw further interest and maybe expand other conclusions and theories.
+Also adding a map that displays North America that has a plotting coordinates attached with the UFO sighting information could provide the user with an exciting and different way of visualizing the gathered data. If users had the chance to zoom in to each sighting with such ease as google maps it could draw further interest and maybe expand other conclusions and theories.
