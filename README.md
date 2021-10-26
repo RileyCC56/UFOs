@@ -3,9 +3,7 @@ The following webpage is a user friendly output that provides a filtered table t
 
 # Webpage:
 
-Find my UFO webpage [here](file:///C:/Users/User/Desktop/Columbia%20Data%20Bootcamp/Module%2011%20(Java-Script)/UFOs/index.html).
-
-
+https://rileycc56.github.io/UFOs/
 
 # Results:
 
